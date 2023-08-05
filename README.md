@@ -8,6 +8,8 @@ Developing a framework for future projects.
 
 **[TailwindCSS](https://tailwindcss.com/)**
 
+**[Debugbar](https://github.com/barryvdh/laravel-debugbar)**
+
 ## Contributors
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request. Follow the contribution guidelines for more information.
