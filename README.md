@@ -2,6 +2,8 @@
 
 Developing a framework for future projects.
 
+## Technologies
+
 **[Laravel](https://laravel.com/)**
 
 **[Laravel Livewire](https://laravel-livewire.com/)**
@@ -9,11 +11,3 @@ Developing a framework for future projects.
 **[TailwindCSS](https://tailwindcss.com/)**
 
 **[Debugbar](https://github.com/barryvdh/laravel-debugbar)**
-
-## Contributors
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request. Follow the contribution guidelines for more information.
-
-## License
-
-This project is licensed under the [MIT license](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute it as per the terms of the license.
